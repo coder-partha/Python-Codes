@@ -1,0 +1,6 @@
+# Immutability
+
+selfish = 100
+selfish = 200
+selfish[0] = 3
+print(selfish)
